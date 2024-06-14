@@ -1,7 +1,5 @@
 ---
 title: "University Coursework"
-venue: "Michigan State University"
-location: "East Lansing, Michigan"
 ---
 
 
