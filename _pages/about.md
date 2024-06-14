@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am Rishabh Bhattarai, a current computer engineering student at Michigan State University in East Lansing, Michigan. I grew up in Kalamazoo, Michigan, and have always been passionate about advancing the stages of computing. I aspire to become a chip design engineer and possibly pursue a PhD to work in the field of quantum computing.
 
-Throughout my studies, I've completed various semester-long research projects, which you can explore in the research section of my website. Additionally, I am actively involved in the Autonomous Vehicles Club at MSU, a field that greatly interests me.
+On campus, I participate in multiple organizations to gain exposure to tech outside of just my classes. Mainly, I am a member of the MSU Autonomous Vehicles Club, in which we research and design software for autonomous driving applications. I also actively participate in MSU's AI Club. Furthermore, I will be eagerly looking for research positions within this following year, hopefully within the field of hardware engineering or embedded systems. 
 
 With over three years of experience in IT, I am currently working as a SharePoint Designer at the Michigan State University Facility for Rare Isotope Beams, where I develop solutions for automating business tasks. My diverse experiences reflect my dedication to the field of computer engineering and my drive to innovate.
 
