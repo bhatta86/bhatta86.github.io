@@ -61,9 +61,9 @@ for pubsource in publist:
     #loop through the individual references in a given bibtex file
     for bib_id in bibdata.entries:
         #reset default date
-        pub_year = "1900"
-        pub_month = "01"
-        pub_day = "01"
+        pub_year = ""
+        pub_month = ""
+        pub_day = ""
         
         b = bibdata.entries[bib_id].fields
         
