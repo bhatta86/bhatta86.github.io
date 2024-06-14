@@ -3,6 +3,9 @@ main:
   - #title: "Research"
     #url: /publications/  
 
+  - title: "Coursework"
+    url: /coursework/
+    
   - title: "Education"
     url: /teaching/    
     
