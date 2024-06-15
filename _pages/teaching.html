@@ -1,24 +1,21 @@
 ---
-layout: default
+layout: archive
+title: "Education"
+permalink: /teaching/
+author_profile: true
 ---
 
-{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
-{% endif %}
+<h2>Michigan State University</h2>
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
+<ul>
+  <li><strong>Expected Graduation</strong>: Fall 2026</li>
+  <li><strong>Major</strong>: Computer Engineering</li>
+  <li><strong>Minor</strong>: Data Science</li>
+  <li><strong>Career Interests</strong>: Hardware engineering, circuit design, autonomous systems</li>
+</ul>
 
-<div id="main" role="main">
-  {% include sidebar.html %}
+{% include base_path %}
 
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
-</div>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

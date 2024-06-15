@@ -1,14 +1,7 @@
 ---
-layout: coursework
 title: "University Coursework"
-permalink: /teaching/university-coursework/
 ---
 
-# University Coursework
-
-Below I have listed all of the courses I have taken or will be taking throughout my time in university so far, from most recent to oldest.
-
-<!--more-->
 
 
 # Sophomore Year
