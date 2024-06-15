@@ -2,4 +2,7 @@
 title: "University Coursework"
 ---
 
-hello
+#Current University Coursework: 
+
+CSE232
+CSE260
