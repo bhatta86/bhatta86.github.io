@@ -1,9 +1,8 @@
 ---
 title: "University Coursework"
 ---
-
-Below I have listed all of the courses I have taken or will be taking throughout my time in university so far, from most recent to oldest.
-
+   
+   
 # Sophomore Year
 
 ## Fall 2024
