@@ -14,6 +14,11 @@ author_profile: true
   <li><strong>Career Interests</strong>: Hardware engineering, circuit design, autonomous systems</li>
 </ul>
 
+{% if page.url == "/teaching/university-coursework/" %}
+  <h2>University Coursework</h2>
+  <p>Below I have listed all of the courses I have taken or will be taking throughout my time in university so far, from most recent to oldest.</p>
+{% endif %}
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
