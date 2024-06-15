@@ -44,7 +44,8 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'teaching' %}
-        <p> {{ page.type }}, {{ page.venue }}, {{ page.date | default: "" | date: "%Y" }} </p>
+        <p> {{ page.type }}{% if page.venue %}, {{ page.venue }}{% endif %}{% if page.date %}, {{ page.date | default: "" |
+          date: "%Y" }}{% endif %} </p>
         {% elsif page.venue and page.date %}
         <p>Published in {{ page.venue }}, {{ page.date | default: "" | date: "%Y" }} </p>
         {% elsif page.date %}
@@ -54,8 +55,8 @@ layout: default
             }}</time>
         </p>
         {% endif %}
-      </header>
-      {% endunless %}
+        </header>
+        {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
