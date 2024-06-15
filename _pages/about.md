@@ -14,3 +14,8 @@ On campus, I participate in multiple organizations to gain exposure to tech outs
 With over three years of experience in IT, I am currently working as a SharePoint Designer at the Michigan State University Facility for Rare Isotope Beams, where I develop solutions for automating business tasks. My diverse experiences reflect my dedication to the field of computer engineering and my drive to innovate.
 
 
+<div style="text-align: center;">
+  <img src="/images/spartan.png" alt="Photography 1" style="width: 30%; margin: 10px;" />
+  <img src="/images/tech.png" alt="Photography 2" style="width: 30%; margin: 10px;" />
+  <img src="/images/frib.jpg" alt="Photography 3" style="width: 30%; margin: 10px;" />
+</div>
