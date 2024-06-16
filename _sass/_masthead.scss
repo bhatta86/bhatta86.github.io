@@ -2,74 +2,57 @@
    MASTHEAD
    ========================================================================== */
 
-   .masthead {
-    position: fixed;
-    background: linear-gradient(90deg, #2e7d32, #1b5e20); /* Gradient for testing */
-    border-bottom: 1px solid #1b5e20; /* Darker green border */
-    height: $masthead-height;
-    top: 0;
-    width: 100%;
-    display: flex;
-    align-items: center;
-  
-    -webkit-animation: intro 0.3s both;
-            animation: intro 0.3s both;
-    -webkit-animation-delay: 0.15s;
-            animation-delay: 0.15s;
-    z-index: 20;
-  
-    &__inner-wrap {
-      @include container;
-      @include clearfix;
-      padding: 0 1em; /* Adjusted padding for full-width */
-      font-family: $sans-serif-narrow;
-      width: 100%;
-  
-      @include breakpoint($x-large) {
-        max-width: $x-large;
-      }
-  
-      nav {
-        z-index: 10;
-        width: 100%;
-      }
-  
-      a {
-        text-decoration: none;
-        color: white; /* White text color for links */
-      }
+.masthead {
+  position: fixed;
+  background: white;
+  border-bottom: 1px solid $border-color;
+  height: $masthead-height;
+  top: 0;
+  width: 100%;
+
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
+  -webkit-animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
+
+  &__inner-wrap {
+    @include container;
+    @include clearfix;
+    padding: 1em 1em 1em;
+    font-family: $sans-serif-narrow;
+
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+
+    nav {
+      z-index: 10;
+    }
+
+    a {
+      text-decoration: none;
     }
   }
-  
-  .masthead__menu {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-  
-    ul {
-      margin: 0;
-      padding: 0;
-      clear: both;
-      list-style-type: none;
-      display: flex;
-    }
-  }
-  
-  .masthead__menu-item {
-    display: block;
+}
+
+.masthead__menu {
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
     list-style-type: none;
-    white-space: nowrap;
-    padding: 10px 15px;
-  
-    &--lg {
-      padding-right: 3em;
-      font-weight: 700;
-    }
   }
-  
-  .masthead__menu-item a:hover {
-    background-color: #1b5e20; /* Darker green on hover */
-    border-radius: 5px; /* Rounded corners on hover */
+}
+
+.masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
+  &--lg {
+    padding-right: 3em;
+    font-weight: 700;
   }
-  
+}
