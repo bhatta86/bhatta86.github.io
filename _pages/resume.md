@@ -4,4 +4,4 @@ title: "Resume"
 permalink: /resume/
 ---
 
-<iframe src="/files/RBhattaraiResume.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="/assets/pdfs/RBhattaraiResume.pdf" width="100%" height="100vh" style="border: none; margin: 0; padding: 0;"></iframe>
