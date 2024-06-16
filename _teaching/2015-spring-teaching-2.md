@@ -8,12 +8,12 @@ title: "University Coursework"
 
 ## Fall 2024
 
-* **CSE331**: Algorithms and Data Structures
+* **CSE331**: Algorithms and Data Structures (Python)
 * **STT380**: Probability and Statistics for Data Science
-* **ECE201**: Circuits and Systems 1
+* **ECE201**: Circuits and Systems I
 * **PHY184B**: Physics for Scientists and Engineers II
-* **PHY191**: Physics Lab 1
-* **CEM161**: Chemistry Lab 1
+* **PHY191**: Physics Lab I
+* **CEM161**: Chemistry Lab I
 
 ---
 
@@ -30,15 +30,15 @@ title: "University Coursework"
 
 ## Spring 2024
 
-* **CMSE202**: Computational Modeling and Data Analysis II
-* **MTH314**: Matrix Algebra with Computational Applications
+* **CMSE202**: Computational Modeling and Data Analysis II (Python)
+* **MTH314**: Matrix Algebra with Computational Applications (Python)
 * **PHY183**: Physicis for Scientists and Engineers I
 * **STT180**: Introduction to Data Science (R)
 
 ## Fall 2023
 
 * **CEM141**: General Chemistry I
-* **CMSE201**: Computational Modeling and Data Analysis I
+* **CMSE201**: Computational Modeling and Data Analysis I (Python)
 * **EGR100**: Intro to Engineering Design
 * **GEO203**: Introduction to Meteorology
 * **MTH234**: Multivariable Calculus

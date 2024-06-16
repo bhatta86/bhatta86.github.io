@@ -4,24 +4,28 @@ excerpt: "In my free time I love photography, take a look at some of my favorite
 collection: portfolio
 ---
 
-_Yes ... it's all butterflies :)_
+_Getting the butterflies to stay still is a secret of mine :)_
 
 <div style="display: block; text-align: center;">
 
-  <div style="margin-bottom: 20px;">
-    <img src="/images/b1.JPEG" alt="Photo 1" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-  </div>
+  <figure style="margin-bottom: 20px;">
+    <img src="/images/b1.JPEG" alt="Monarch Butterfly" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    <figcaption style="font-style: italic;">Monarch Butterfly</figcaption>
+  </figure>
 
-  <div style="margin-bottom: 20px;">
-    <img src="/images/b2.JPEG" alt="Photo 2" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-  </div>
+  <figure style="margin-bottom: 20px;">
+    <img src="/images/b2.JPEG" alt="Clouded Yellow Butterfly" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    <figcaption style="font-style: italic;">Clouded Yellow Butterfly</figcaption>
+  </figure>
 
-  <div style="margin-bottom: 20px;">
-    <img src="/images/b3.JPEG" alt="Photo 3" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-  </div>
+  <figure style="margin-bottom: 20px;">
+    <img src="/images/b3.JPEG" alt="Great Spangled Fritillary Butterfly" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    <figcaption style="font-style: italic;">Great Spangled Fritillary</figcaption>
+  </figure>
 
-  <div style="margin-bottom: 20px;">
-    <img src="/images/f1.JPEG" alt="Photo 4" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
-  </div>
+  <figure style="margin-bottom: 20px;">
+    <img src="/images/f1.JPEG" alt="Persian Buttercup" style="width: 80%; height: auto; border: 2px solid #ccc; border-radius: 10px;">
+    <figcaption style="font-style: italic;">Persian Buttercup</figcaption>
+  </figure>
 
 </div>
