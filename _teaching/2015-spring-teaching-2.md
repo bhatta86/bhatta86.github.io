@@ -4,7 +4,7 @@ title: "University Coursework"
 
 ---
 
-# Sophomore Year
+# <span style="color: #2e7d32;">Sophomore Year</span>
 
 ## Fall 2024
 
@@ -26,7 +26,7 @@ title: "University Coursework"
 
 ---
 
-# Freshman Year
+# <span style="color: #2e7d32;">Freshman Year</span>
 
 ## Spring 2024
 
