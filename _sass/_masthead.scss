@@ -4,11 +4,13 @@
 
    .masthead {
     position: fixed;
-    background: #2e7d32; /* Dark green color */
+    background: linear-gradient(90deg, #2e7d32, #1b5e20); /* Gradient for testing */
     border-bottom: 1px solid #1b5e20; /* Darker green border */
     height: $masthead-height;
     top: 0;
     width: 100%;
+    display: flex;
+    align-items: center;
   
     -webkit-animation: intro 0.3s both;
             animation: intro 0.3s both;
@@ -19,8 +21,9 @@
     &__inner-wrap {
       @include container;
       @include clearfix;
-      padding: 1em 1em 1em;
+      padding: 0 1em; /* Adjusted padding for full-width */
       font-family: $sans-serif-narrow;
+      width: 100%;
   
       @include breakpoint($x-large) {
         max-width: $x-large;
@@ -28,6 +31,7 @@
   
       nav {
         z-index: 10;
+        width: 100%;
       }
   
       a {
@@ -38,12 +42,17 @@
   }
   
   .masthead__menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
   
     ul {
       margin: 0;
       padding: 0;
       clear: both;
       list-style-type: none;
+      display: flex;
     }
   }
   
@@ -51,6 +60,7 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
+    padding: 10px 15px;
   
     &--lg {
       padding-right: 3em;
