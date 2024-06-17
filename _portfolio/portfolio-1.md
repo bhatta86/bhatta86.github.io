@@ -8,7 +8,7 @@ collection: portfolio
 
 Human mobility is the study of individual and collective human movement in space and time, in the case of this project, population flow amongst various geolocations. The goal of this project was to model and predict human mobility patterns on the scale of groups throughout the COVID-19 timeline. 
 
-**Dataset Utilized**: COVID19USFlows - Weekly Flows (https://github.com/GeoDS/COVID19USFlows-WeeklyFlows/tree/master)
+**Dataset Utilized**: [COVID19USFlows - Weekly Flows](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows/tree/master)
 
 **Data Handling**: Weekly CSV updates were combined and split into training (Jan 2019 - Jun 2021) and testing (Jul 2021 - Dec 2021) sets using Pandas.
 
