@@ -6,7 +6,7 @@ title: "University Coursework"
 
 # <span style="color: #2e7d32;">Sophomore Year</span>
 
-## Fall 2024
+## Fall 2024 (CURRENT)
 
 * **CSE331**: Algorithms and Data Structures (Python)
 * **STT380**: Probability and Statistics for Data Science
@@ -17,7 +17,7 @@ title: "University Coursework"
 
 ---
 
-## Summer 2024 (CURRENT)
+## Summer 2024 
 
 * **CSE232**: Introduction to Programming II (C++)
 * **CSE260**: Discrete Structures in Computer Science
