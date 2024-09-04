@@ -4,7 +4,6 @@ excerpt: "In my free time I love photography, take a look at some of my favorite
 collection: portfolio
 ---
 
-_Getting the butterflies to stay still is a secret of mine :)_
 
 <div style="display: block; text-align: center;">
 
