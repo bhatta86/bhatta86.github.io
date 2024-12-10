@@ -4,9 +4,21 @@ title: "University Coursework"
 
 ---
 
-# <span style="color: #2e7d32;">Sophomore Year</span>
+# <span style="color: #003366;">Sophomore Year</span>
 
-## Fall 2024 (CURRENT)
+## Spring 2025 (CURRENT)
+
+* **EECS280**: Programming and Data Structures (C++)
+* **EECS215**: Introduction to Electronic Circuits
+* **EECS270**: Introduction to Logic Design
+
+---
+
+**Time of Transfer**
+
+---
+
+## Fall 2024 
 
 * **CSE331**: Algorithms and Data Structures (Python)
 * **STT380**: Probability and Statistics for Data Science
@@ -26,7 +38,7 @@ title: "University Coursework"
 
 ---
 
-# <span style="color: #2e7d32;">Freshman Year</span>
+# <span style="color: #003366;">Freshman Year</span>
 
 ## Spring 2024
 
