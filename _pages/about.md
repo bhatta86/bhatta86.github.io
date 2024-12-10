@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Rishabh Bhattarai, a current computer engineering student at Michigan State University in East Lansing, Michigan. I grew up in Kalamazoo, Michigan, and have always been passionate about advancing the stages of computing. My current goal is to work towards a PhD in computer engineering, and work in a field such as semiconductor or VLSI design. 
+Hello, I'm Rishabh Bhattarai, a Computer Engineering student at the University of Michigan College of Engineering. Originally from Kalamazoo, Michigan, I've always been passionate about computers and technology. My ultimate goal is to pursue higher education in engineering and build a career in the VLSI industry. 
 
-On campus, I participate in multiple organizations to gain exposure to tech outside of just my classes. Mainly, I am a member of the MSU Autonomous Vehicles Club, in which we research and design software for autonomous driving applications. I also actively participate in MSU's AI Club. Furthermore, I will be eagerly looking for research positions within this following year, hopefully within the field of hardware engineering or embedded systems. 
+I began my educational journey at Michigan State University, and transferred to the University of Michigan in my sophomore year. In my time at MSU, I was a member of the Autonomous Vehicles Club, contributing to research/development for autonomous driving systems, as well as the MSU AI Club, where I learned of many emerging technologies in the field. Moving forward at the University of Michigan, I am a member of MASA, the Michigan Aeronautical Science Association, and I'm eagerly looking for CompE related research opportunities on campus. 
 
-With over three years of experience in IT, I am currently working as a SharePoint Developer at the Michigan State University Facility for Rare Isotope Beams, where I develop solutions for automating business tasks. My diverse experiences reflect my dedication to the field of computer engineering and my drive to innovate.
+I have three years of diverse IT experience. During my positions, I've honed skills in many different branches such as communication, hardware/software troubleshooting, Microsoft SharePoint Online and Power Platform skills, and more. Additionally, I have experience with project management, team collaboration, and designing efficient solutions to technical problems. Combining my academic and professional pursuits, I am driven to make an impact in the evolving field of computer engineering. 
 
 
 <div style="text-align: center;">
-  <img src="/images/spartan.png" alt="Photography 1" style="width: 30%; margin: 10px;" />
+  <img src="/images/uofm.png" alt="Photography 1" style="width: 30%; margin: 10px;" />
   <img src="/images/tech.png" alt="Photography 2" style="width: 30%; margin: 10px;" />
   <img src="/images/frib.jpg" alt="Photography 3" style="width: 30%; margin: 10px;" />
 </div>
