@@ -15,7 +15,7 @@ I have three years of diverse IT experience. During my positions, I've honed ski
 
 
 <div style="text-align: center;">
-  <img src="/images/uofm.png" alt="Photography 1" style="width: 30%; margin: 10px;" />
-  <img src="/images/tech.png" alt="Photography 2" style="width: 30%; margin: 10px;" />
-  <img src="/images/frib.jpg" alt="Photography 3" style="width: 30%; margin: 10px;" />
+  <img src="/images/uofm.png" alt="Photography 1" style="width: 30%; margin: 10px 20px;" />
+  <img src="/images/tech.png" alt="Photography 2" style="width: 30%; margin: 10px 20px;" />
 </div>
+
