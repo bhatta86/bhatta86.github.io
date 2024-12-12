@@ -1,5 +1,5 @@
 ---
-title: "University Coursework"
+title: "University Coursework Timeline"
 ---
 
 ---
@@ -11,13 +11,6 @@ title: "University Coursework"
 * **EECS280**: Programming and Data Structures (C++)
 * **EECS215**: Introduction to Electronic Circuits
 * **EECS270**: Introduction to Logic Design
-
-
----
-
-**Time of Transfer**
-
----
 
 ## Fall 2024 
 
