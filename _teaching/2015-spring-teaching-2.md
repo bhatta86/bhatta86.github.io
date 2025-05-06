@@ -4,13 +4,24 @@ title: "University Coursework Timeline"
 
 ---
 
+# <span style="color: #003366;">Junior Year</span>
+
+## Fall 2025 (Current)
+
+* **EECS370**: Intro to Computer Organization (C/Assembly)
+* **EECS312**: Digital Integrated Circuits
+* **MATSCIE220**: Introduction to Materials and Manufacturing
+* **TECHCOM300**: Technical Communication for Electrical and Computer Science
+* **PAT305**: Video Game Music Production
+
 # <span style="color: #003366;">Sophomore Year</span>
 
-## Spring 2025 (CURRENT)
+## Spring/Winter 2025 
 
 * **EECS280**: Programming and Data Structures (C++)
 * **EECS215**: Introduction to Electronic Circuits
-* **EECS270**: Introduction to Logic Design
+* **EECS270**: Introduction to Logic Design (Verilog)
+* **ASIAN325**: Zen Buddhism
 
 ## Fall 2024 
 
@@ -34,7 +45,7 @@ title: "University Coursework Timeline"
 
 # <span style="color: #003366;">Freshman Year</span>
 
-## Spring 2024
+## Spring/Winter 2024
 
 * **CMSE202**: Computational Modeling and Data Analysis II (Python)
 * **MTH314**: Matrix Algebra with Computational Applications (Python)
