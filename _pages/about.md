@@ -1,21 +1,23 @@
 ---
 permalink: /
-title: "A little bit about me..."
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, I'm Rishabh Bhattarai, a Computer Engineering student at the University of Michigan College of Engineering. Originally from Kalamazoo, Michigan, I've always been passionate about computers and technology. My ultimate goal is to pursue higher education in engineering and build a career in the VLSI industry. 
+Hello, I'm Rishabh Bhattarai, a junior majoring in Computer Engineering at the University of Michigan College of Engineering. Originally from Kalamazoo, Michigan, I’m driven by a fascination with how hardware and software come together to form the foundation of modern technology. My long-term goal is to pursue graduate studies and work in a field related to VLSI and hardware engineering. 
 
-I began my educational journey at Michigan State University, and transferred to the University of Michigan in my sophomore year. In my time at MSU, I was a member of the Autonomous Vehicles Club, contributing to research/development for autonomous driving systems, as well as the MSU AI Club, where I learned of many emerging technologies in the field. Moving forward at the University of Michigan, I am a member of MASA, the Michigan Aeronautical Science Association, and I'm eagerly looking for CompE related research opportunities on campus. 
+I currently work as a System Engineering Co-op at **Sierra Nevada Corporation**, where I've been developing SysML-based system engineering templates, and working on MBSE projects for aerospace and defense systems.
 
-I have three years of diverse IT experience. During my positions, I've honed skills in many different branches such as communication, hardware/software troubleshooting, Microsoft SharePoint Online and Power Platform skills, and more. Additionally, I have experience with project management, team collaboration, and designing efficient solutions to technical problems. Combining my academic and professional pursuits, I am driven to make an impact in the evolving field of computer engineering. 
+Before SNC, I worked in various tech roles such as a SharePoint Developer at MSU's Facility for Rare Isotope Beams (FRIB), and a PC Technician at MSU's Surplus Store & Recycling Center. Throughout all my tech-adjacent experiences, I've gained skills in hardware/software engineering, system-level design, debugging and troubleshooting, as well as workplace skills like cross-team collaboration. 
 
+At Michigan, I'm currently taking advanced CE courseowkr in VLSI design, computer architecture, FPGA/logic design, and more. I'm eager to continue deepening my skills through advanced digital design and hardware courses in the future. I also plan to continue into graduate studies. 
+
+I’m most interested in roles that sit at the intersection of **hardware design, firmware development, and systems engineering**—fields that blend hands-on technical problem-solving with scalable design thinking.  
 
 <div style="text-align: center;">
-  <img src="/images/uofm.png" alt="Photography 1" style="width: 30%; margin: 10px 20px;" />
-  <img src="/images/tech.png" alt="Photography 2" style="width: 30%; margin: 10px 20px;" />
+  <img src="/images/uofm.png" alt="University of Michigan" style="width: 30%; margin: 10px 20px;" />
+  <img src="/images/tech.png" alt="Engineering and Technology" style="width: 30%; margin: 10px 20px;" />
 </div>
-
