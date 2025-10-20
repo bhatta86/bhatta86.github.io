@@ -7,7 +7,7 @@ title: "University Coursework Timeline"
 ## Fall 2025 (Current)
 
 - **EECS370**: Intro to Computer Organization (C/Assembly)  
-- **EECS312**: Digital Integrated Circuits  
+- **EECS312**: Digital Integrated Circuits (Cadence Virtuoso)
 - **MATSCIE220**: Introduction to Materials and Manufacturing  
 - **TECHCOM300**: Technical Communication for Electrical and Computer Science  
 - **PAT305**: Video Game Music Production  
