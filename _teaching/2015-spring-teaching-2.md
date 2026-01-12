@@ -6,7 +6,7 @@ title: "University Coursework Timeline"
 
 ## Winter 2026 (Current) 
 
-- **EECS427**: VLSI Design I (Cadence)
+- **EECS427**: VLSI Design I 
 - **EECS216**: Signals and Systems
 - **EECS496**: Major Design Experience - Profssionalism  
 - **TECHCOM496**: Advanced Technical Communication for Electrical and Computer Engineering
