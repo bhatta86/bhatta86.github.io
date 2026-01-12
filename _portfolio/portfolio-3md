@@ -1,21 +1,29 @@
 ---
 title: "Study of Human Mobility"
-excerpt: "A data-driven project focused on modeling and predicting human mobility patterns using advanced regression techniques on a large-scale dataset."
+excerpt: "A data-driven modeling project analyzing and predicting population mobility patterns using regression-based machine learning techniques."
 collection: portfolio
 ---
 
 ### Modeling and Predicting Human Mobility Patterns: A Data-Driven Approach
 
-Human mobility is the study of individual and collective human movement in space and time, in the case of this project, population flow amongst various geolocations. The goal of this project was to model and predict human mobility patterns on the scale of groups throughout the COVID-19 timeline. 
+This project focused on modeling and predicting large-scale human mobility patterns by analyzing population flow data across different geographic regions. Using weekly mobility data spanning the COVID-19 timeline, the goal was to understand and predict how group-level movement patterns evolved over time under changing real-world conditions.
 
-**Dataset Utilized**: [COVID19USFlows - Weekly Flows](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows/tree/master)
+**Technical Context**: CMSE 202 — Computational Modeling Tools and Techniques
 
-**Data Handling**: Weekly CSV updates were combined and split into training (Jan 2019 - Jun 2021) and testing (Jul 2021 - Dec 2021) sets using Pandas.
+**Dataset + Data Handling**  
+The project used the publicly available [COVID19USFlows – Weekly Flows](https://github.com/GeoDS/COVID19USFlows-WeeklyFlows/tree/master) dataset. Weekly CSV updates were aggregated and processed using Pandas, then split into training (January 2019 – June 2021) and testing (July 2021 – December 2021) datasets to enable forward-looking prediction.
 
-**Methodology**: Trained two different models, one with Random Forest Regression, and another with Gradient Boosting Regression, in order to be able to predict future population flows. 
+**Methodology**
+- Preprocessed and combined large-scale CSV datasets representing population flows between geographic regions.
+- Trained two regression-based machine learning models:
+  - Random Forest Regression
+  - Gradient Boosting Regression
+- Evaluated model performance by comparing predicted flows against held-out test data.
+- Analyzed relative error to assess predictive accuracy and model robustness.
 
-**Performance**:
-- **Random Forest**:  Relative Error - 0.04% 
-- **Gradient Boosting**: Relative Error - 163.95%
+**Performance**
+- **Random Forest Regression**: Relative error of approximately **0.04%**, demonstrating strong predictive performance.
+- **Gradient Boosting Regression**: Relative error of approximately **163.95%**, indicating sensitivity to data anomalies and poorer generalization.
 
-**Further Thoughts**: Future improvements within this project could be to develop a neural network so that data anomalies can be handled with greater intelligence, as opposed to training a machine learning model. Furthermore, many jumps in the data were present due to holidays, events, natural disasters, and more, so these areas could be filtered out. 
+**Further Thoughts**
+Potential improvements include exploring neural network–based models to better handle non-linearities and anomalous events in the data. Additionally, filtering or explicitly modeling disruptions caused by holidays, large events, or natural disasters could improve predictive stability.
