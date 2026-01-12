@@ -4,12 +4,20 @@ title: "University Coursework Timeline"
 
 # <span style="color: #003366;">Junior Year</span>
 
-## Fall 2025 (Current)
+## Winter 2026 (Current) 
+
+- **EECS427**: VLSI Design I (Cadence)
+- **EECS216**: Signals and Systems
+- **EECS496**: Major Design Experience - Profssionalism  
+- **TECHCOM496**: Advanced Technical Communication for Electrical and Computer Engineering
+- **PIANO150**: Advanced Piano
+
+## Fall 2025 
 
 - **EECS370**: Intro to Computer Organization (C/Assembly)  
 - **EECS312**: Digital Integrated Circuits (Cadence Virtuoso)
 - **MATSCIE220**: Introduction to Materials and Manufacturing  
-- **TECHCOM300**: Technical Communication for Electrical and Computer Science  
+- **TECHCOM300**: Technical Communication for Electrical and Computer Engineering  
 - **PAT305**: Video Game Music Production  
 
 ---
