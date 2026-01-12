@@ -15,7 +15,7 @@ Prior to SNC, I held technical roles including SharePoint Developer at Michigan 
 
 At the University of Michigan, I am currently taking advanced computer engineering coursework in VLSI design, computer architecture, and digital logic. Through these courses and related projects, I have developed a growing interest in transistor-level design, digital integrated circuits, and performance-driven hardware architectures. I plan to continue deepening this expertise through advanced hardware coursework and graduate-level study.
 
-I’m most interested in opportunities at the intersection of **chip design, VLSI, firmware, and hardware  engineering**;roles that combine low-level technical details with system design thinking.
+I’m most interested in opportunities at the intersection of **chip design, VLSI, firmware, and hardware  engineering**; roles that combine low-level technical details with system design thinking.
 
 <div style="text-align: center;">
   <img src="/images/uofm.png" alt="University of Michigan" style="width: 30%; margin: 10px 20px;" />
