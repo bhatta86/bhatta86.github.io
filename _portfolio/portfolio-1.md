@@ -4,6 +4,8 @@ excerpt: "A custom ASIC implementing a pipelined 16-bit RISC processor integrate
 collection: portfolio
 ---
 
+**Paper:** [View Full Project Report](/files/paper4.pdf)
+
 ### 16-Bit RISC Processor with 4×4 Systolic Array Accelerator
 
 This project involved the architectural design, RTL development, custom VLSI implementation, and physical design of a 16-bit RISC processor enhanced with a dedicated 4×4 systolic-array accelerator for matrix multiplication workloads. The system was developed through a complete ASIC design flow spanning custom transistor-level layout, digital synthesis, place-and-route, and post-layout analysis.
