@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hello, I’m Rishabh Bhattarai, a junior majoring in Computer Engineering at the University of Michigan College of Engineering. Originally from Kalamazoo, Michigan, I’m driven by a strong interest in how hardware and software interact to form the foundation of modern computing systems. My long-term goal is to pursue graduate studies and build a career in **VLSI, chip design, or related hardware engineering fields**.
+Hello, I’m Rishabh Bhattarai, a senior majoring in Computer Engineering at the University of Michigan College of Engineering. Originally from Kalamazoo, Michigan, I am passionate about digital hardware design and the intersection of computer architecture, FPGA development, and VLSI systems. My long-term goal is to pursue graduate studies and build a career in ASIC, FPGA, and processor design.
 
-From May 2025 to December 2025, I worked as a Systems Engineering Intern at **Sierra Nevada Corporation**, where I developed SysML-based systems engineering templates to standardize engineering workflows and supported multiple model-based systems engineering (MBSE) efforts for aerospace and defense programs. My work focused on system architecture development and improving hardware–software interface traceability. More recently, I transitioned into a Firmware Engineering role at SNC, where I support FPGA development workflows using VHDL and work closer to the hardware implementation layer.
+Currently, I work as an FPGA Engineer Co-op at Sierra Nevada Corporation, where I develop synthesizable VHDL RTL for FPGA-based DSP and communication systems. My work includes RTL design, verification, AXI-based interfaces, simulation, and automation of FPGA development workflows using VHDL, Vivado, Tcl, and Linux-based toolchains. Through this role, I have gained hands-on experience working within large RTL codebases while contributing to the development and verification of hardware features used in complex aerospace and defense systems.
 
-Prior to SNC, I held technical roles including SharePoint Developer at Michigan State University’s Facility for Rare Isotope Beams (FRIB) and PC Technician at MSU’s Surplus Store & Recycling Center. Across these experiences, I developed a strong foundation in debugging and troubleshooting, system-level problem solving, and cross-functional collaboration, while gaining exposure to both software tooling and industry-standard development methodologies.
+Prior to this role, I worked as a Systems Engineering Intern at Sierra Nevada Corporation, supporting Model-Based Systems Engineering (MBSE) efforts for aerospace programs. I developed reusable SysML-based engineering frameworks, improved hardware-software traceability, and collaborated with multidisciplinary teams on system architecture and requirements development. These experiences strengthened my understanding of how large-scale hardware systems are designed, validated, and integrated.
 
-At the University of Michigan, I am currently taking advanced computer engineering coursework in VLSI design, computer architecture, and digital logic. Through these courses and related projects, I have developed a growing interest in transistor-level design, digital integrated circuits, and performance-driven hardware architectures. I plan to continue deepening this expertise through advanced hardware coursework and graduate-level study.
+My academic interests center around computer architecture, digital integrated circuits, and hardware acceleration. Through projects at the University of Michigan, I have designed custom CMOS circuits, implemented processor architectures in Verilog, and completed a full RTL-to-GDSII VLSI design flow using Cadence Virtuoso, Synopsys Design Compiler, and Cadence Innovus. One of my recent projects involved extending a custom 16-bit RISC processor with a 4×4 systolic-array accelerator, exploring how specialized hardware can significantly improve computational performance.
 
-I’m most interested in opportunities at the intersection of **chip design, VLSI, firmware, and hardware  engineering**; roles that combine low-level technical details with system design thinking.
+Outside of coursework and internships, I enjoy building personal projects that span both hardware and software, continually exploring new technologies and development methodologies. I am particularly interested in opportunities involving ASIC design, FPGA development, RTL engineering, computer architecture, and hardware acceleration.
 
 <div style="text-align: center;">
   <img src="/images/uofm.png" alt="University of Michigan" style="width: 30%; margin: 10px 20px;" />
